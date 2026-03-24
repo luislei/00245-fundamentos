@@ -22,6 +22,12 @@ public class Aula01
         // Operadores de Comparação
         OperadoresComparacao operadoresComparacao = new OperadoresComparacao();
         operadoresComparacao.Executar();
+         
+        Console.WriteLine();
+
+        // Operadores Logicos
+        OperadoresLogicos operadoresLogicos=new OperadoresLogicos();
+        operadoresLogicos.Executar();
         
 
         //fim
