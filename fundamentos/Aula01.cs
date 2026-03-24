@@ -10,6 +10,12 @@ public class Aula01
        VariaveisETiposDeDados variaveisETiposDeDados = new VariaveisETiposDeDados();
         variaveisETiposDeDados.Executar();
 
+        Console.WriteLine();
+
+        // operadores aritmeticos
+        OperadoresAritmeticos operadoresAritmeticos = new OperadoresAritmeticos();
+        operadoresAritmeticos.Executar();
+
 
         //fim
         this.ResumoAula();
