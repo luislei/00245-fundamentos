@@ -17,6 +17,13 @@ public class Aula01
         operadoresAritmeticos.Executar();
 
 
+        Console.WriteLine();
+
+        // Operadores de Comparação
+        OperadoresComparacao operadoresComparacao = new OperadoresComparacao();
+        operadoresComparacao.Executar();
+        
+
         //fim
         this.ResumoAula();
     } 
